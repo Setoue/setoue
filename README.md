@@ -1,16 +1,26 @@
-### Hi there 👋
+# Opa, sou Augusto Shigeru
 
-<!--
-**Setoue/setoue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+.💻 Sou iniciante em programação
 
-Here are some ideas to get you started:
+.👨‍🎓 Atualmente sou graduando em Biologia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+.📚 Estou estudando:
+
+      . ☕ Java
+      
+      . 🐍 Python
+ 
+##
+ <div>
+  <a href="https://beacons.ai/Setoue">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=setoue&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=setoue&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+
+
+
+
+
+
+
