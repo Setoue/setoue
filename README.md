@@ -6,9 +6,9 @@
 
 .📚 Estou estudando:
 
-      . ☕ Java
+      . Java
       
-      . 🐍 Python
+      . Swift
       
 ##
  <div>
