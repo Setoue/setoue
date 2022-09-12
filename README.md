@@ -6,9 +6,9 @@
 
 .📚 Estou estudando:
 
-      . Java
-      
       . Swift
+      
+      . React Native
       
 ##
  <div>
