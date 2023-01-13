@@ -1,10 +1,10 @@
 # Opa, sou Augusto Shigeru
 
-.💻 Sou iniciante em programação
+.💻 Junior iOS
 
 .👨‍🎓 Atualmente faço Análise e Desenvolvimento de Sistemas
 
-.📚 Estou estudando:
+.📚 Tecnologias:
 
       . Swift
       . UIKit
