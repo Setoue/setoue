@@ -7,8 +7,8 @@
 .📚 Estou estudando:
 
       . Swift
-      
-      . React Native
+      . UIKit
+      . ViewCode
       
 ##
  <div>
