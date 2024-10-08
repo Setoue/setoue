@@ -1,14 +1,11 @@
 # Opa, sou Augusto Shigeru
 
-.💻 Junior Front-end e Mobile
-
-.👨‍🎓 Atualmente faço Análise e Desenvolvimento de Sistemas
+.💻 Junior Front-end
 
 .📚 Tecnologias:
 
-      . Swift - UIKit - ViewCode
-      . React - CSS - HTML - JS
-      . Flutter - Dart
+      . React - CSS - HTML - JS - TS - Storybook
+      . Java - Spring boot
       
 ##
  <div>
