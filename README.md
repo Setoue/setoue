@@ -1,6 +1,6 @@
 # Opa, sou Augusto Shigeru
 
-.💻 Junior Front-end
+.💻 Dev Fullstacl
 
 .📚 Tecnologias:
 
