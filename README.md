@@ -1,6 +1,6 @@
 # Opa, sou Augusto Shigeru
 
-.💻 Dev Fullstacl
+.💻 Dev Fullstack
 
 .📚 Tecnologias:
 
